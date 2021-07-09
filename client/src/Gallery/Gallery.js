@@ -1,6 +1,4 @@
 import React from 'react'
-import img3 from '../Images/img3.jpg'
-import img4 from '../Images/img4.jpg'
 import './Gallery.css'
 import {Container, Col,Row} from 'react-bootstrap'
 const Gallery = () => {

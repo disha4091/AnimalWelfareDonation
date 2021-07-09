@@ -1,6 +1,4 @@
-import React from 'react'
-import {Image} from 'react-bootstrap'
-import img1 from '../Images/image1.jpg' 
+import React from 'react' 
 import './HomePage.css'
 const HomePage = () => {
     return (
