@@ -1,0 +1,13 @@
+.googleform {
+  width: 50%;
+  margin: 0 auto;
+}
+.inner {
+  border: 1px;
+}
+
+.outer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

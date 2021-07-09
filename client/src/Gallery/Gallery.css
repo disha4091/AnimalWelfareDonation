@@ -1,0 +1,48 @@
+.images1 {
+  width: 300px;
+  height: 200px;
+  background-image: url("../Images/img12.jpg");
+}
+.images1:hover {
+  background-image: url("../Images/img8.jpg");
+}
+.images2 {
+  width: 300px;
+  height: 200px;
+  background-image: url("../Images/img3.jpg");
+}
+.images2:hover {
+  background-image: url("../Images/img4.jpg");
+}
+.images3 {
+  width: 300px;
+  height: 200px;
+  background-image: url("../Images/img5.jpg");
+}
+.images3:hover {
+  background-image: url("../Images/img6.jpg");
+}
+.images4 {
+  width: 300px;
+  height: 200px;
+  background-image: url("../Images/img7.jpg");
+}
+.images4:hover {
+  background-image: url("../Images/img8.jpg");
+}
+.images5 {
+  width: 300px;
+  height: 200px;
+  background-image: url("../Images/img9.jpg");
+}
+.images5:hover {
+  background-image: url("../Images/img10.jpg");
+}
+.images6 {
+  width: 300px;
+  height: 200px;
+  background-image: url("../Images/img11.jpg");
+}
+.images6:hover {
+  background-image: url("../Images/img12.jpg");
+}
