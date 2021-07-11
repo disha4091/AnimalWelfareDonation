@@ -1,6 +1,7 @@
 .images1 {
   width: 300px;
   height: 200px;
+  margin-bottom: 3vh;
   background-image: url("../Images/img12.jpg");
 }
 .images1:hover {
@@ -9,6 +10,7 @@
 .images2 {
   width: 300px;
   height: 200px;
+  margin-bottom: 3vh;
   background-image: url("../Images/img3.jpg");
 }
 .images2:hover {
@@ -17,6 +19,7 @@
 .images3 {
   width: 300px;
   height: 200px;
+  margin-bottom: 3vh;
   background-image: url("../Images/img5.jpg");
 }
 .images3:hover {
@@ -25,6 +28,7 @@
 .images4 {
   width: 300px;
   height: 200px;
+  margin-bottom: 3vh;
   background-image: url("../Images/img7.jpg");
 }
 .images4:hover {
@@ -33,6 +37,7 @@
 .images5 {
   width: 300px;
   height: 200px;
+  margin-bottom: 3vh;
   background-image: url("../Images/img9.jpg");
 }
 .images5:hover {
@@ -41,6 +46,7 @@
 .images6 {
   width: 300px;
   height: 200px;
+  margin-bottom: 3vh;
   background-image: url("../Images/img11.jpg");
 }
 .images6:hover {

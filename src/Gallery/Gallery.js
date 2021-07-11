@@ -6,31 +6,30 @@ const Gallery = () => {
         <Container>
         <br></br> <br></br>
         <Row>
-            <Col xs={6} md={4}>
+            <Col sm>
                 <div className="images1"></div>
             </Col>
-            <Col xs={6} md={4}>
+            <Col sm>
                 <div className="images2"></div>
             </Col>
-            <Col xs={6} md={4}>
+            <Col sm>
                 <div className="images3"></div>
             </Col>
         </Row>
         <br></br><br></br>
         <Row>
-            <Col xs={6} md={4}>
+            <Col sm>
                 <div className="images4"></div>
             </Col>
-            <Col xs={6} md={4}>
+            <Col sm>
                 <div className="images5"></div>
             </Col>
-            <Col xs={6} md={4}>
+            <Col sm >
                 <div className="images6"></div>
             </Col>
         </Row>
-        
+        <br></br><br></br><br></br><br></br>
         </Container>
     )
 }
-
 export default Gallery

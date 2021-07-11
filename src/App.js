@@ -19,7 +19,6 @@ function App() {
             <Route path="/aboutus" component={AboutPage} />
             <Route path="/contactus" component={ContactPage} />
             <Route path="/gallery" component={Gallery} />
-
             </Switch>      
           </Router>
         </div>

@@ -9,12 +9,9 @@
 
 .donateimg button {
   margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 40%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-  font-size: 60px;
+  font-size: 8vh;
+  margin-top: 15%;
+  margin-left: 40%;
   background-color: rgb(245, 176, 87);
   border-color: transparent;
   color: rgb(63, 50, 23);
@@ -23,12 +20,9 @@
 }
 .donateimg button:hover {
   margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 40%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-  font-size: 60px;
+  margin-top: 15%;
+  margin-left: 40%;
+  font-size: 8vh;
   background-color: rgb(172, 131, 77);
   border-color: transparent;
   color: rgb(70, 56, 29);

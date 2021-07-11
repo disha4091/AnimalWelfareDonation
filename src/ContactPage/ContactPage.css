@@ -11,3 +11,22 @@
   display: flex;
   justify-content: center;
 }
+.alternate {
+  display: none;
+}
+.alternate p {
+  font-size: 10rv;
+}
+.alternate button {
+  background-color: rosybrown;
+  border-radius: 5px;
+}
+@media screen and (max-width: 700px) {
+  .alternate {
+    display: inline;
+  }
+
+  .outer {
+    display: none;
+  }
+}
